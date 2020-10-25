@@ -8,7 +8,7 @@ Data Source: city_data.csv and ride_data.csv
 Software: Python 3.7.2, Jupyter Notebook
 
 ## Results
-After analyzing the data from three different city types (rural, suburban, and urban), we see that urban city type had the highest total number of rides with 1,625 total rides then suburban with 625 total rides, and rural with only 125 total rides. However, rural city type had the highest average fare per ride and the highest average fare per driver. Urban city type, on the other hand, had the lowest average fare per ride and lowest average fare per driver. Suburban city type's average fares per ride and per driver were between the urban and rural's averages. Due to high volume, urban city type still generate the highest revenue then suburban then rural even though urban city type has the lowest average fare per ride and average fare per driver.
+After analyzing the data from three different city types (rural, suburban, and urban), we see that urban city type has the highest total number of rides with 1,625 total rides then suburban with 625 total rides, and rural with only 125 total rides. However, rural city type has the highest average fare per ride and the highest average fare per driver. Urban city type, on the other hand, has the lowest average fare per ride and lowest average fare per driver. Suburban city type's average fares per ride and per driver are in between the urban and rural's averages. Due to high volume, urban city type still generate the highest revenue then suburban then rural even though urban city type has the lowest average fare per ride and average fare per driver.
 
 ![Deliverable1_PyBer_Summary](Analysis/Deliverable1_PyBer_Summary.png)
 
